@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo_shape"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <Button
+        android:id="@+id/ma_bt_subzero"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/subzero"
+        app:layout_constraintEnd_toStartOf="@+id/ma_bt_jax"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/ma_bt_baraka"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/baraka"
+        app:layout_constraintEnd_toStartOf="@+id/ma_bt_johnnycage"
+        app:layout_constraintStart_toEndOf="@+id/ma_bt_jax"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/ma_bt_jax"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/jax"
+        app:layout_constraintEnd_toStartOf="@+id/ma_bt_baraka"
+        app:layout_constraintStart_toEndOf="@+id/ma_bt_subzero"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/ma_bt_johnnycage"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/johnnycage"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/ma_bt_baraka"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/ma_bt_kitana"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/kitana"
+        app:layout_constraintEnd_toStartOf="@+id/ma_bt_kunglao"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ma_bt_subzero" />
+
+    <Button
+        android:id="@+id/ma_bt_kunglao"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/kunglao"
+        app:layout_constraintEnd_toStartOf="@+id/ma_bt_liukang"
+        app:layout_constraintStart_toEndOf="@+id/ma_bt_kitana"
+        app:layout_constraintTop_toBottomOf="@+id/ma_bt_jax" />
+
+    <Button
+        android:id="@+id/ma_bt_liukang"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/liukang"
+        app:layout_constraintEnd_toStartOf="@+id/ma_bt_milena"
+        app:layout_constraintStart_toEndOf="@+id/ma_bt_kunglao"
+        app:layout_constraintTop_toBottomOf="@+id/ma_bt_baraka" />
+
+    <Button
+        android:id="@+id/ma_bt_milena"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/milena"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/ma_bt_liukang"
+        app:layout_constraintTop_toBottomOf="@+id/ma_bt_johnnycage" />
+
+    <Button
+        android:id="@+id/ma_bt_raiden"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/raiden"
+        app:layout_constraintEnd_toStartOf="@+id/ma_bt_reptile"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ma_bt_kitana" />
+
+    <Button
+        android:id="@+id/ma_bt_reptile"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/reptile"
+        app:layout_constraintEnd_toStartOf="@+id/ma_bt_scorpion"
+        app:layout_constraintStart_toEndOf="@+id/ma_bt_raiden"
+        app:layout_constraintTop_toBottomOf="@+id/ma_bt_kunglao" />
+
+    <Button
+        android:id="@+id/ma_bt_scorpion"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/scorpion"
+        app:layout_constraintEnd_toStartOf="@+id/ma_bt_shan"
+        app:layout_constraintStart_toEndOf="@+id/ma_bt_reptile"
+        app:layout_constraintTop_toBottomOf="@+id/ma_bt_liukang" />
+
+    <Button
+        android:id="@+id/ma_bt_shan"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/shangtsung"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/ma_bt_scorpion"
+        app:layout_constraintTop_toBottomOf="@+id/ma_bt_milena" />
+</android.support.constraint.ConstraintLayout>

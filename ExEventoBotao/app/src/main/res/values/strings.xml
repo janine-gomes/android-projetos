@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">ExEventoBotao</string>
+
+    <!--MainActivity-->
+    <string name="ma_toast_msg">Oi</string>
+
+    <string name="ma_alert_titulo">História</string>
+
+    <string name="ma_alert_sim">Sim</string>
+    <string name="ma_alert_nao">Não</string>
+    <string name="ma_alert_ok">Ok</string>
+    <string name="ma_alert_cancelar">Cancelar</string>
+    <string name="ma_bt_ok">OK</string>
+
+    <!--Personagens Mortal Kombat-->
+    <string name="ma_baraka">Baraka</string>
+    <string name="ma_alert_mensagem_baraka">
+        Baraka
+        Ele é membro da raça Tarkatan,uma mistura de demônio com humano,uma raça agressiva de
+        Outworld.É o líder dos tarkatâneos.Sua primeira aparição foi em Mortal Kombat II servindo
+        ao imperador Shao Kahn e suas tropas
+    </string>
+
+    <string name="ma_cage">JonnyCage</string>
+    <string name="ma_alert_mensagem_cage">
+        JonnyCage
+       John Carlton,mais conhecido como Johnny Cage é um personagem da franquia de jogos
+        Mortal Kombat.Ele foi introduzido no primeiro jogo da franquia,Mortal Kombat.Ele é um
+        artista de filmes de artes marciais.Ele é um dos personagens mais populares,e um dos poucos
+        personagens que aparecem em todos os jogos da franquia.Em Mortal Kombat X,foi casado com
+        Sonya Blade com a qual teve uma filha chamada Cassie Cage.
+    </string>
+
+    <string name="ma_jax">Jax</string>
+    <string name="ma_alert_mensagem_jax">
+        Jax
+       Ele é o Major da Special Forces que foi introduzido em Mortal Kombat II. Além disso, ele
+        é muito amigo de Sonya Blade e em Mortal Kombat X é pai de Jacqui Briggs e esposo de Vera Briggs.
+    </string>
+
+    <string name="ma_kitana">Kitana</string>
+    <string name="ma_alert_mensagem_kitana">
+        Kitana
+       Ela foi introduzida em Mortal Kombat II e é uma das principais personagens da série ganhando
+        muito destaque.Ela é a princesa de Edenia filha do rei Jerrod e da rainha Sindel.
+    </string>
+
+    <string name="ma_kunglao">Kunglao</string>
+    <string name="ma_alert_mensagem_kunglao">
+        Kung Lao
+        É o melhor amigo de Liu Kang e também é um guerreiro shaolin.Ele fez sua primeira aparição
+        em Mortal Kombat II.É também primo de Kung Jin.
+    </string>
+
+    <string name="ma_liukang">LiuKang</string>
+    <string name="ma_alert_mensagem_liukang">
+        Liu Kang
+        Ele é um dos poucos personagens originais, estreando no primeiro jogo de arcade Mortal Kombat.
+        Ele serve como o principal protagonista dos quatro primeiros jogos da série e é o grande
+        campeão do Mortal Kombat nos primeiros quatro torneios no cronograma original, mas na linha
+        de tempo alternativa, ele só se tornou o grande campeão em duas ocasiões, devido ao fato que
+        um terceiro torneio não teve lugar durante a invasão de Earthrealm. Embora Liu Kang aparece
+        em cada principal jogo Mortal Kombat, ele não é jogável em Deadly Alliance.
+    </string>
+
+    <string name="ma_mileena">Mileena</string>
+    <string name="ma_alert_mensagem_mileena">
+        Mileena
+        Ela fez sua primeira aparição em Mortal Kombat II.Mileena é um clone da princesa Kitana
+        feita por Shang Tsung para Shao Kahn feita para substituir a princesa Edeniana para as
+        próprias intenções do imperador.Além disso,ela é uma mistura de Edeniana com sangue tarkatan
+        de Baraka.Em Mortal Kombat X,ela se tornou a Imperatriz de Outworld mas foi deposta por Kotal Kahn.
+    </string>
+
+    <string name="ma_reptile">Reptile</string>
+    <string name="ma_alert_mensagem_reptile">
+        Reptile
+        Reptile integrou Mortal Kombat como um personagem  Reptile MK1 secreto.
+        Reptile serviu como protetor pessoal de Shang Tsung no primeiro torneio.Ele ficou escondido
+        e vigiando Shang Tsung e permaneceu fiel a seu dever.Ele raramente lutou,mas era um lutador
+        muito ágil e discreto.Ele utilizou muitas de suas habilidades especiais que lhe davam um
+        poder incrível.Reptile também usava uma Spear e o poder congelante de Sub-Zero como ataques.
+    </string>
+
+    <string name="ma_scorp">Scorpion</string>
+    <string name="ma_alert_mensagem_scorp">
+        Scorpion
+        Scorpion é um ninja espectro e um dos principais personagens de jogos da franquia Mortal Kombat.
+        Seu nome real é Hanzo Hasashi em sua forma humana, mencionada nos jogos anteriormente mas
+        nunca mostrada e nem jogável que agora foi introduzida a partir de Mortal Kombat X.
+    </string>
+
+    <string name="ma_shang">Shangtsung</string>
+    <string name="ma_alert_mensagem_shang">
+        Shang tsung
+        Ele é um dos poucos personagens que estrearam no primeiro jogo de arcade Mortal Kombat,
+        em que ele atuou como o chefe final.É o grande feiticeiro de Shao Kahn.
+    </string>
+
+    <string name="ma_subzero">Subzero</string>
+    <string name="ma_alert_mensagem_subzero">
+        Sub  zero
+        Sub-Zero é o nome de um dos personagens mais famosos da franquia de jogos Mortal Kombat.
+        O nome Sub-Zero é um título de conquista , conquistado por dois personagens da série,
+        Bi Han , o primeiro Sub-Zero e Kuai Liang, que se mantem atual. É o atual Grandmaster
+        do clã de assassinos Lin Kuei, que antes era comandado por Sektor.
+    </string>
+
+    <string name="ma_raiden">Raiden</string>
+    <string name="ma_alert_mensagem_raiden">
+        Raiden
+        Ele é o deus do Trovão,protetor do plano terreno.Ele foi introduzido em Mortal Kombat
+        e um dos poucos a aparecer em todos os jogos da franquia Mortal Kombat.Com frequência
+        ele lidera as forças do bem contra o mal e tem um papel essencial na história e nos jogos
+        da série.Tem muitas habilidades como teletransporte,controlar raios,e usa um bastão Staff
+        como arma.O seu corpo é mortal,porém é imortal.Ele pensa em termos de eternidade,e não como
+        um ser humano e suas memórias vão desde o começo dos tempos.
+    </string>
+</resources>
