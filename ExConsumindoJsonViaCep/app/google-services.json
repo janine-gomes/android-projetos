@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "530166692792",
+    "firebase_url": "https://projetofinal-59e00.firebaseio.com",
+    "project_id": "projetofinal-59e00",
+    "storage_bucket": "projetofinal-59e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530166692792:android:32244313b3281a35",
+        "android_client_info": {
+          "package_name": "janine.gomes.projetofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530166692792-jkrdqve0t8kh5f7ek846f6qp7chp2oq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcYsouQmKyOEh5getrP-37XRoMlIhuR58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,72 @@
+<resources>
+
+    <string name="app_name">Search CEP</string>
+    <string name="app_cadastro">Register</string>
+    <!--Menu-->
+    <string name="menu_sobre">About</string>
+
+    <!--Tela BuscarCEP-->
+    <string name="cep_tv_info">type your CEP</string>
+    <string name="CEP">CEP</string>
+    <string name="sp_tv_info">Search CEP</string>
+    <string name="cep_bt_buscar">Search</string>
+
+
+    <!--Tela Main Activity Alert-->
+    <string name="ma_alert_titulo">About</string>
+    <string name="ma_alert_mensagem">Application created by Janine Gomes Coelho.
+     Academic of schools and colleges IQ, attending computer technician - Discipline Mobile Programming.
+         Application consists of Json Consumption, Drawer Menu and FireBase.
+    </string>
+
+    <!--Tela BuscarEndereco-->
+    <string name="ma_alert_ok">OK</string>
+    <string name="be_et_estado">States</string>
+    <string-array name="be_sp_estado">
+        <item>Select a State</item>
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>MG</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+    </string-array>
+    <string name="be_et_municipio">County</string>
+    <string name="be_et_rua">Street</string>
+    <string name="be_bt_localiza_cep">Find CEP</string>
+
+    <!--Tela de Login-->
+    <string name="lg_et_senha">Password</string>
+    <string name="lg_et_nome">Name</string>
+    <string name="lg_bt_logar">Log in</string>
+
+    <!--Tela de Cadastro-->
+
+    <string name="lg_et_email">E-mail</string>
+    <string name="lg_bt_cadastro">Make your registration</string>
+    <string name="cd_bt_cadastrar">Register</string>
+
+    <!--Main Activity-->
+    <string name="cm_tv_info">Welcome, click the Menu to start</string>
+    <string name="saudacao">Hello, welcome</string>
+</resources>
